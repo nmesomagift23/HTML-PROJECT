@@ -1,0 +1,26 @@
+body {
+    color: blue;
+}
+header {
+    background-color:blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.main-nav, navlist {
+    display:block;
+}
+.navlist, li {
+    display: inline;
+    background-color: aqua;
+
+}
+.main-profile{
+    background-color: black;
+}
+*{
+    background-color:bisque
+}
+.main-footer{
+    background-color:black;
+    
+}
